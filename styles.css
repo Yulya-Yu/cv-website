@@ -67,7 +67,7 @@ body::-webkit-scrollbar-thumb
   display: flex;
   flex-direction: column;
   justify-content: center;
-  background-image: url('img/8-compressor.jpg');
+  background-image: url('img/hero.jpg');
   background-position: center; 
   background-repeat: no-repeat;
   background-size: cover;
