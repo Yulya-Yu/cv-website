@@ -1,0 +1,1 @@
+This is a personal webpage project, created to host my cv and portfolio.
