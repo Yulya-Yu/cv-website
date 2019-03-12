@@ -2,12 +2,19 @@
 * {
   font-family: 'Work Sans', sans-serif;
 }
+/*
 
 @font-face {
   font-family: 'Pipetton';
   src: url('Pipetton.ttf')format('truetype');
 }
-
+*/
+@font-face{
+    font-family:"Pipetton DEMO";
+    src:url("https://candyfonts.com/wp-data/2018/10/26/11627/Pipetton DEMO.ttf") format("woff"),
+    url("https://candyfonts.com/wp-data/2018/10/26/11627/Pipetton DEMO.ttf") format("opentype"),
+    url("https://candyfonts.com/wp-data/2018/10/26/11627/Pipetton DEMO.ttf") format("truetype");
+}
 
 html {
   -webkit-box-sizing: border-box;
@@ -247,7 +254,7 @@ i {
 
 .hello {
   display: block;
-  font-family: 'Pipetton', sans-serif;
+  font-family: 'Pipetton DEMO', sans-serif;
   margin-bottom: 3%;
   font-size: 1.6rem;
   color: #2e3131;
